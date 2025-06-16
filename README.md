@@ -120,8 +120,8 @@ The existing depth chart structure should automatically work with your new sport
 
 ```
 src/
-├── assets/         # Static assets (images, icons)
-├── components/     # React components
+├── assets/        # Static assets (images, icons)
+├── components/    # React components
 ├── hooks/         # Custom React hooks
 ├── mocks/         # Test mocks
 ├── theme/         # Styling and theming
