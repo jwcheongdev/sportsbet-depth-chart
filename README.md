@@ -52,12 +52,6 @@ Run the test suite:
 npm test
 ```
 
-To view test coverage:
-
-```bash
-npm test -- --coverage
-```
-
 ## Linting
 
 The project uses ESLint and Prettier for code quality and consistent formatting. To run the linter:
