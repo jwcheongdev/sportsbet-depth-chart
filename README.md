@@ -112,7 +112,7 @@ const initialDepthChart: DepthChart = useMemo(() => ({
 ```
 
 3. Clear existing localStorage data.
-4. This step is necessary because the existing localStorage data won't include the new sport's structure, which could cause errors.
+   This step is necessary because the existing localStorage data won't include the new sport's structure, which could cause errors.
 
 The existing depth chart structure should automatically work with your new sport.
 
